@@ -1,2 +1,2 @@
-Data Science - Caso práctico 2
+# Data Science - Caso práctico 1
 Informe anual de rotación de productos
